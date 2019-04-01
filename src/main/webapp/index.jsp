@@ -3,7 +3,7 @@
 <head>
 <style>
 body {
-  background-color: #A1EC39;
+  background-color: #A1DBDF;
 }
 
 
@@ -14,7 +14,7 @@ h1 {
 </head>
 <body>
 
-<h1> Hello! everyone...</h1>
+<h1> Hello! Welcome!</h1>
 
 
 </body>
